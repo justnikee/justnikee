@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm justnikee
-
-Welcome to my GitHub profile! I'm a passionate developer who loves to create and contribute to open-source projects. Here's a bit more about me:
+# Hi there! 👋 I'm NikhiL
 
 ## 🚀 About Me
 
@@ -24,11 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to create and
 - [LinkedIn](link-to-your-linkedin)
 - [Twitter](link-to-your-twitter)
 - [Personal Website](link-to-your-website)
-
-## 🌟 Featured Projects
-
-- [Project Name](link-to-project) - A brief description of what this project is about.
-- [Project Name](link-to-project) - A brief description of what this project is about.
 
 Feel free to explore my repositories and reach out if you have any questions or just want to connect!
 
